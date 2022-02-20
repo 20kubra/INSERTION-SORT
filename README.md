@@ -1,5 +1,5 @@
 # INSERTION-SORT
->Insertion Sort Bilgisayar bilimlerinde kullanılan bir sıralama algoritmasıdır. Amaç verilen örüntüye ait en küçük elemanı bulup solundaki eleman ile değiştirerek küçükten büyüğe sıralamaktır. Insertion Sortta Time Complexity durumları şunlardır:
+>Insertion Sort Bilgisayar bilimlerinde kullanılan lineer bir sıralama algoritmasıdır. Amaç verilen örüntüye ait en küçük elemanı bulup solundaki eleman ile değiştirerek küçükten büyüğe sıralamaktır. Insertion Sortta Time Complexity durumları şunlardır:
 >
   **_Best Case Complexity O(n)_**
   
